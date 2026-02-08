@@ -1,2 +1,2 @@
-public class Render {
+public class Render extends Engine{
 }
